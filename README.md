@@ -4,6 +4,9 @@ This note taker app allows users to save notes. It starts with a homepage that p
 
 
 ## Screenshot
+![homepage](https://github.com/benjaminescobar1/note-application/assets/135399618/c9852dfa-88c6-48e3-88f4-25927bf0753a)
+![note-taker2](https://github.com/benjaminescobar1/note-application/assets/135399618/df46b004-16ee-4b00-867a-6ef50e7765b9)
+![note-taker1](https://github.com/benjaminescobar1/note-application/assets/135399618/6d23f085-31e8-4686-a605-13d6e8415bf9)
 
 
 ## License
